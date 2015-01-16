@@ -1,0 +1,12 @@
+127.0.0.1 - - [15/Jan/2015:19:06:50 -0800] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [15/Jan/2015:19:06:52 -0800] "GET /LoginBasico/LoginPage.jsp HTTP/1.1" 200 460
+0:0:0:0:0:0:0:1 - - [15/Jan/2015:19:06:55 -0800] "GET /LoginBasico/LoginServlet?un=&pw= HTTP/1.1" 404 999
+127.0.0.1 - - [15/Jan/2015:19:44:11 -0800] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [15/Jan/2015:19:44:14 -0800] "GET /LoginBasico/login.jsp HTTP/1.1" 200 388
+0:0:0:0:0:0:0:1 - - [15/Jan/2015:19:44:16 -0800] "POST /LoginBasico/login.jsp HTTP/1.1" 200 388
+0:0:0:0:0:0:0:1 - - [15/Jan/2015:19:44:18 -0800] "POST /LoginBasico/login.jsp HTTP/1.1" 200 388
+0:0:0:0:0:0:0:1 - - [15/Jan/2015:19:44:18 -0800] "POST /LoginBasico/login.jsp HTTP/1.1" 200 388
+0:0:0:0:0:0:0:1 - - [15/Jan/2015:19:44:19 -0800] "POST /LoginBasico/login.jsp HTTP/1.1" 200 388
+0:0:0:0:0:0:0:1 - - [15/Jan/2015:19:50:38 -0800] "GET /LoginBasico/login.jsp HTTP/1.1" 500 2773
+0:0:0:0:0:0:0:1 - - [15/Jan/2015:20:00:08 -0800] "GET /LoginBasico/login.html HTTP/1.1" 200 513
+0:0:0:0:0:0:0:1 - - [15/Jan/2015:20:00:10 -0800] "POST /LoginBasico/login.jsp HTTP/1.1" 200 274
